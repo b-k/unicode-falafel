@@ -50,7 +50,7 @@ The ideal falafel is briefly fried so that the exterior is brown, but the interi
 ### Completeness
 Middle Eastern food has almost no representation in emoji. Distinctive foods commonly found in the melting pot of Middle Eastern cuisine such as shakshuka or baklava are missing.
 Döner Kebab has an emoji, though the proposal (UTC document L2/15-084) makes no reference to the Middle East and instead bills it as "Germany's most favorite fast food snack."
-Falafel would be the first VHK Middle Eastern food represented in emoji, and 
+Falafel would be the first VHK Middle Eastern food represented in emoji.
 
 Selection Factors for Exclusion
 ------------
@@ -69,7 +69,7 @@ Döner Kebab is wrapped in a manner that bears a visual similarity to some forms
 Falafel is often served in the form of a stuffed pita, but the stuffed flatbread
 emoji is designed to be ambiguous about its contents---and even whether the flatbread is a
 pita at all, or a frybread or focaccia. "Emoji Additions Tranche 6: More
-Popular Requests and Gap Filling" ( L2/15­195R2) does propose "falafel" as an alias,
+Popular Requests and Gap Filling" (UTC document L2/15­195R2) does propose "falafel" as an alias,
 but the proposal describes "ingredients, such as meat, vegetables, and condiments",
 and the proposed character in that document shows brown strips that can not be falafel.
 
@@ -84,9 +84,6 @@ Location on the emoji keyboard
 ------------
 
 Falafel is often served as a wrap or in a flatbread, so sequencing it before Döner Kebab
-facilitates the /falafel + kebab wrap/ and the /falafel + flatbread/ pairs, which could
+facilitates the *falafel + kebab wrap* and the *falafel + flatbread* pairs, which could
 transform the wrap and flatbreat emoji into unambiguous representations of a falafel wrap
 or pita.
-
-Before the stuffed flatbread emoji, the falafel + flatbread combination would unambiguously
-indicated this common means of 
