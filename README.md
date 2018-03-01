@@ -49,7 +49,7 @@ The figure includes "sweet potato", which is more popular in Google's database b
 
 
 ### Image distinctiveness
-The ideal falafel is briefly fried so that the exterior is brown, but the interior remains green. The brown-to-green pattern is distinctive and easily recognized even at small resolutions.
+The ideal falafel is briefly fried so that the exterior is brown, but the interior remains green. The brown-to-green pattern is distinctive and easily recognized even in small fonts.
 
 ### Completeness
 Middle Eastern food has almost no representation in emoji. Distinctive foods
@@ -75,7 +75,8 @@ Falafel recipes are largely uniform, so there is no need for additional emoji fo
 
 Closely comparable emoji are not reasonable substitutes for falafel. As above, a key feature of falafel is that it is unambiguously VHK.
 
-Döner kebab is wrapped in a manner that bears a visual similarity to some forms of falafel, but is an entirely distinct food.
+Döner kebab is wrapped in a manner that bears a visual similarity to some means of
+serving of falafel, but is an entirely distinct food.
 
 Falafel is often served in the form of a stuffed pita, but the stuffed flatbread
 emoji is designed to be ambiguous about its contents---and even whether the flatbread is a
@@ -85,16 +86,17 @@ but the proposal describes "ingredients, such as meat, vegetables, and condiment
 and the proposed character in that document shows brown strips that can not be falafel.
 
 In some parts of the world, falafel is available only as street food served in
-a wrap or pita, but it is just as often eaten as typical plated food served at home
+a wrap or pita, giving the impression that "falafel" and "falafel sandwich" are identical.
+But falafel is just as often eaten as typical plated food served at home
 or in a restaurant. Expressing the latter use with existing emoji, for example via
 STUFFED FLATBREAD + FORK AND KNIFE WITH PLATE, may leave significant ambiguity that
 the author is writing about flatbread containing primarily falafel, minus the flatbread.
 
 ### Transient
 
-The plot above from Google's database shows consistent usage of "falafel" since 2004. Before
-that date, falafel has been consumed in the Middle East and nearby areas for a millennium
-or more.
+The plot above from Google's database shows consistent usage of "falafel" in the
+English-speaking world since 2004. Before that date, falafel has been consumed in the
+Middle East and nearby areas for a millennium or more.
 
 
 Location on the emoji keyboard
