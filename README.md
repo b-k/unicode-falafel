@@ -41,18 +41,18 @@ Expected Usage
 
 !["Falafel" is as common as "croissant" in Google's database](trends.png)
 
-Google's heavily English-language database indicates that the usage of "falafel" is roughly as popular as "croissant", and noticeably more popular than some of the Japanese food emoji (see figure). 
+Google's English-language database indicates that the usage of "falafel" is roughly as popular as "croissant", and noticeably more popular than some of the Japanese food emoji (see figure). 
 The figure includes "sweet potato", which is more popular in Google's database but clearly seasonal, while Falafel shows consistent usage.
-
-!["Falafel" competes with basic staples in search popularity](atrends.png)
 
 To preserve the scale, "rice" was omitted from the plot of English search terms:
 being a basic staple, it was searched on Google 17 times more often than "falafel".
 
+!["Falafel" competes with basic staples in search popularity](atrends.png)
+
 But among Arabic search terms, falafel is in the same range as basic staples.  "Rice"
 (رز, in red) appears in Google's database of searches only three times as often as
 falafel (فلافل, in blue).  Even "bread" (خبز, in purple) is only 70% more
-popular than falafel. Falafel seems slightly more popular than "kebab" (كباب,
+popular than falafel at the end of this period. Falafel seems slightly more popular than "kebab" (كباب,
 in yellow), while "croissant" (كرواسون, in green) is largely unknown.
 
 
