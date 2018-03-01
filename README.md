@@ -73,10 +73,11 @@ Falafel recipes are largely uniform, so there is no need for additional emoji fo
 
 ### Already Representable
 
-Closely comparable emoji are not reasonable substitutes for falafel. As above, a key feature of falafel is that it is unambiguously VHK.
+Closely comparable emoji are not reasonable substitutes for falafel.
 
 Döner kebab is wrapped in a manner that bears a visual similarity to some means of
 serving of falafel, but is an entirely distinct food.
+As above, a key feature of falafel is that it is unambiguously VHK.
 
 Falafel is often served in the form of a stuffed pita, but the STUFFED FLATBREAD
 emoji is designed to be ambiguous about its contents---and even whether the flatbread is a
