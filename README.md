@@ -57,8 +57,11 @@ Selection Factors for Exclusion
 
 ### Overly specific
 
+Falafel has the level of specificity of many other emoji, such as the croissant.
+
 ### Open ended
 
+Falafel recipes are largely uniform, so there is no need for additional emoji for different falafel subtypes.
 
 ### Already Representable
 
