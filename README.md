@@ -13,7 +13,7 @@ Abstract
 This proposal requests the addition of a FALAFEL emoji to a future version of the
 Unicode Standard.  The emoji food set is lacking in Middle Eastern and North African
 foods, and in unambiguously vegetarian, kosher, or halal foods outside of fruits and
-vegetables. A falafel emoji fills these gaps.
+vegetables. A falafel emoji addresses these gaps.
 
 
 Introduction
