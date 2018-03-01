@@ -78,7 +78,7 @@ Closely comparable emoji are not reasonable substitutes for falafel. As above, a
 Döner kebab is wrapped in a manner that bears a visual similarity to some means of
 serving of falafel, but is an entirely distinct food.
 
-Falafel is often served in the form of a stuffed pita, but the stuffed flatbread
+Falafel is often served in the form of a stuffed pita, but the STUFFED FLATBREAD
 emoji is designed to be ambiguous about its contents---and even whether the flatbread is a
 pita at all, or a frybread or focaccia. "Emoji Additions Tranche 6: More
 Popular Requests and Gap Filling" ([UTC document L2/15 195R2](https://www.unicode.org/L2/L2015/15195r2-emoji-add-tranche6.pdf)) does propose "falafel" as an alias,
@@ -95,7 +95,7 @@ the author is writing about flatbread containing primarily falafel, minus the fl
 ### Transient
 
 The plot above from Google's database shows consistent usage of "falafel" in the
-English-speaking world since 2004. Before that date, falafel has been consumed in the
+English-speaking world since 2004. Pre-Internet, falafel has been consumed in the
 Middle East and nearby areas for a millennium or more.
 
 
