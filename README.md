@@ -13,7 +13,7 @@ Abstract
 This proposal requests the addition of a FALAFEL emoji to a future version of the
 Unicode Standard.  The emoji food set is lacking in Middle Eastern and North African
 foods, and in unambiguously vegetarian, kosher, or halal foods outside of fruits and
-vegetables. A falafel emoji fills these gaps.
+vegetables. A falafel emoji addresses these gaps.
 
 
 Introduction
@@ -41,17 +41,30 @@ Expected Usage
 
 !["Falafel" is as common as "croissant" in Google's database](trends.png)
 
-Google's heavily English-language database indicates that the usage of "falafel" is roughly as popular as "croissant", and noticeably more popular than some of the Japanese food emoji (see figure). 
+Google's English-language database indicates that the usage of "falafel" is roughly as popular as "croissant", and noticeably more popular than some of the Japanese food emoji (see figure). 
 The figure includes "sweet potato", which is more popular in Google's database but clearly seasonal, while Falafel shows consistent usage.
+
+To preserve the scale, "rice" was omitted from the plot of English search terms:
+being a basic staple, it was searched on Google 17 times more often than "falafel".
+
+!["Falafel" competes with basic staples in search popularity](atrends.png)
+
+But among Arabic search terms, falafel is in the same range as basic staples.  "Rice"
+(رز, in red) appears in Google's database of searches only three times as often as
+falafel (فلافل, in blue).  Even "bread" (خبز, in purple) is only 70% more
+popular than falafel at the end of this period. Falafel seems slightly more popular than "kebab" (كباب,
+in yellow), while "croissant" (كرواسون, in green) is largely unknown.
+
 
 ### Multiple uses
 
 
 
 ### Image distinctiveness
-The ideal FALAFEL is briefly fried so that the exterior is brown, but the interior remains green. The brown-to-green pattern is distinctive and easily recognized even at small resolutions. 
-
-We believe, from our conversations, that we should show three falafel balls, and one of the of the balls should be cut open to show the distinctive green color. However, we leave it to the vendors to choose the most effective designs.
+The ideal falafel is briefly fried so that the exterior is brown, but the interior remains green. We believe, from
+our conversations, that we should show three falafel balls, and one of the of the balls should be cut open to show
+the distinctive green color. The brown-to-green pattern is distinctive and easily recognized even in small fonts.
+However, we leave it to the vendors to choose the most effective designs.
 
 ### Completeness
 Middle Eastern food has almost no representation in emoji. Distinctive foods
@@ -74,28 +87,31 @@ FALAFEL recipes are largely uniform, so there is no need for additional emoji fo
 
 ### Already Representable
 
-Closely comparable emoji are not reasonable substitutes for FALAFEL. As above, a key feature of FALAFEL is that it is unambiguously VHK.
+Closely comparable emoji are not reasonable substitutes for falafel.
 
-Döner kebab is wrapped in a manner that bears a visual similarity to some forms of FALAFEL, but is an entirely distinct food.
+Döner kebab is wrapped in a manner that bears a visual similarity to some means of
+serving of falafel, but is an entirely distinct food.
+As above, a key feature of falafel is that it is unambiguously VHK.
 
-FALAFEL is often served in the form of a stuffed pita, but the stuffed flatbread
-emoji is designed to be ambiguous about its contents—and even whether the flatbread is a
+Falafel is often served in the form of a stuffed pita, but the STUFFED FLATBREAD
+emoji is designed to be ambiguous about its contents---and even whether the flatbread is a
 pita at all, or a frybread or focaccia. "Emoji Additions Tranche 6: More
 Popular Requests and Gap Filling" ([UTC document L2/15 195R2](https://www.unicode.org/L2/L2015/15195r2-emoji-add-tranche6.pdf)) does propose "falafel" as an alias,
 but the proposal describes "ingredients, such as meat, vegetables, and condiments",
 and the proposed character in that document shows brown strips that can not be FALAFEL.
 
-In some parts of the world, FALAFEL is available only as street food served in
-a wrap or pita, but it is just as often eaten as typical plated food served at home
+In some parts of the world, falafel is available only as street food served in
+a wrap or pita, giving the impression that "falafel" and "falafel sandwich" are identical.
+But falafel is just as often eaten as typical plated food served at home
 or in a restaurant. Expressing the latter use with existing emoji, for example via
 STUFFED FLATBREAD + FORK AND KNIFE WITH PLATE, may leave significant ambiguity that
 the author is writing about flatbread containing primarily FALAFEL, minus the flatbread.
 
 ### Transient
 
-The plot above from Google's database shows consistent usage of "falafel" since 2004. Before
-that date, FALAFEL has been consumed in the Middle East and nearby areas for a millennium
-or more.
+The plot above from Google's database shows consistent usage of "falafel" in the
+English-speaking world since 2004. Pre-Internet, falafel has been consumed in the
+Middle East and nearby areas for a millennium or more.
 
 
 Location on the emoji keyboard
