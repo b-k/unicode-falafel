@@ -19,7 +19,7 @@ vegetables. A falafel emoji addresses these gaps.
 Introduction
 ------------
 
-Falafel is a ball of fried chickpeas or fava beans, and is popular in the Middle East
+FALAFEL is a ball of fried chickpeas or fava beans, and is popular in the Middle East
 and North Africa, and increasingly throughout the world.  One of its key advantages is
 that it accommodates a range of food preferences: given reasonable care in preparation,
 it is vegan and vegetarian, halal, and kosher (for the remainder of this proposal, "VHK")
@@ -61,27 +61,29 @@ in yellow), while "croissant" (كرواسون, in green) is largely unknown.
 
 
 ### Image distinctiveness
-The ideal falafel is briefly fried so that the exterior is brown, but the interior remains green. The brown-to-green pattern is distinctive and easily recognized even in small fonts.
+The ideal falafel is briefly fried so that the exterior is brown, but the interior remains green. We believe, from
+our conversations, that we should show three falafel balls, and one of the of the balls should be cut open to show
+the distinctive green color. The brown-to-green pattern is distinctive and easily recognized even in small fonts.
+However, we leave it to the vendors to choose the most effective designs.
 
 ### Completeness
 Middle Eastern food has almost no representation in emoji. Distinctive foods
-commonly found in the melting pot of Middle Eastern cuisine such as shakshuka or
-baklava are missing.  Döner kebab has an emoji, though the proposal ([UTC document
+commonly found in the melting pot of Middle Eastern cuisine such as kebabs, hummus, shakshuka or
+baklava are missing.  Döner kebab has an emoji in the form of STUFFED FLATBREAD, though the proposal ([UTC document
 L2/15-084](http://www.unicode.org/L2/L2015/15084-kebab.pdf)) makes only brief reference
 to its Turkish origins and instead bills it as "Germany's most favorite fast food snack."
-Falafel would be the first VHK Middle Eastern food represented in emoji.
+FALAFEL would be the first VHK Middle Eastern food represented in emoji.
 
 Selection Factors for Exclusion
 ------------
 
 ### Overly specific
 
-Falafel has a level of specificity comparable to many other emoji, such as those for
-the croissant, bento box, or döner kebab.
+FALAFEL has a level of specificity comparable to many other emoji, such as those for the croissant, bento box, or döner kebab. And it is as prominent for a particular region of the world which is currently underrepresented.
 
 ### Open ended
 
-Falafel recipes are largely uniform, so there is no need for additional emoji for different falafel subtypes.
+FALAFEL recipes are largely uniform, so there is no need for additional emoji for different falafel subtypes. In addition, in our quick unscientific poll of Middle Easterners, FALAFEL ranks among the highest for both being culturally relevant, and visually distinctive. In contrast, HUMMUS has been previously proposed and rejected by the Unicode Technical Committee. The universe of iconic and visually distinctive foods in the Middle East is fairly scoped.
 
 ### Already Representable
 
@@ -96,14 +98,14 @@ emoji is designed to be ambiguous about its contents---and even whether the flat
 pita at all, or a frybread or focaccia. "Emoji Additions Tranche 6: More
 Popular Requests and Gap Filling" ([UTC document L2/15 195R2](https://www.unicode.org/L2/L2015/15195r2-emoji-add-tranche6.pdf)) does propose "falafel" as an alias,
 but the proposal describes "ingredients, such as meat, vegetables, and condiments",
-and the proposed character in that document shows brown strips that can not be falafel.
+and the proposed character in that document shows brown strips that can not be FALAFEL.
 
 In some parts of the world, falafel is available only as street food served in
 a wrap or pita, giving the impression that "falafel" and "falafel sandwich" are identical.
 But falafel is just as often eaten as typical plated food served at home
 or in a restaurant. Expressing the latter use with existing emoji, for example via
 STUFFED FLATBREAD + FORK AND KNIFE WITH PLATE, may leave significant ambiguity that
-the author is writing about flatbread containing primarily falafel, minus the flatbread.
+the author is writing about flatbread containing primarily FALAFEL, minus the flatbread.
 
 ### Transient
 
@@ -115,7 +117,7 @@ Middle East and nearby areas for a millennium or more.
 Location on the emoji keyboard
 ------------
 
-Falafel as street food is served as a wrap or in a flatbread, so sequencing it before KEBAB
+FALAFEL as street food is served as a wrap or in a flatbread, so sequencing it before KEBAB
 (picured in a wrap) facilitates the FALAFEL + KEBAB and the FALAFEL + STUFFED FLATBREAD pairs, which could
 transform the wrap and flatbreat emoji into unambiguous representations of a falafel wrap
 or pita.
