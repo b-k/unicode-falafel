@@ -25,7 +25,9 @@ that it accommodates a range of food preferences: given reasonable care in prepa
 it is vegan and vegetarian, halal, and kosher (for the remainder of this proposal, "VHK")
 
 The proposed emoji would picture three falafel balls, with one in the center split open to
-reveal the green interior of the ball.
+reveal the green interior of the ball. Below is a sample rendering by Aphee Messer.
+
+![Sample emoji rendering by Aphee Messer](falafel.png)
 
 The food category in the emoji set includes a wide range of fruits and vegetables, but
 very little else that is VHK. For example, cheeses may not be VHK due to rennet, and the
