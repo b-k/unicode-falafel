@@ -1,6 +1,11 @@
 Proposal to Add Emoji Symbol for **Falafel** to Unicode 
 ====================================================================
 
+
+This document is now a PDF generated vi LaTeX. 
+
+![Download the proposal here](https://github.com/b-k/unicode-falafel/raw/master/falafel_proposal.pdf).
+
 -   **Author:** Ben Klemens
 
 -   **Mail:** ben@klemens.org
@@ -91,8 +96,8 @@ FALAFEL recipes are largely uniform, so there is no need for additional emoji fo
 
 Closely comparable emoji are not reasonable substitutes for falafel.
 
-Döner kebab is wrapped in a manner that bears a visual similarity to some means of
-serving of falafel, but is an entirely distinct food.
+The KEBAB emoji depicts döner kebab wrapped in Lafah, a thin wrap sometimes used to serve
+falafel, but despite the similarity in wrapping method, a kebab is an entirely distinct food from falafel.
 As above, a key feature of falafel is that it is unambiguously VHK.
 
 Falafel is often served in the form of a stuffed pita, but the STUFFED FLATBREAD
@@ -102,12 +107,10 @@ Popular Requests and Gap Filling" ([UTC document L2/15 195R2](https://www.unicod
 but the proposal describes "ingredients, such as meat, vegetables, and condiments",
 and the proposed character in that document shows brown strips that can not be FALAFEL.
 
-In some parts of the world, falafel is available only as street food served in
-a wrap or pita, giving the impression that "falafel" and "falafel sandwich" are identical.
-But falafel is just as often eaten as typical plated food served at home
-or in a restaurant. Expressing the latter use with existing emoji, for example via
+Beyond Lafah and pita, one may also find falafel on a mezze plate along with other small
+dishes. Expressing the latter use with existing emoji, for example via
 STUFFED FLATBREAD + FORK AND KNIFE WITH PLATE, may leave significant ambiguity that
-the author is writing about flatbread containing primarily FALAFEL, minus the flatbread.
+the author is writing about flatbread containing primarily falafel, minus the flatbread.
 
 ### Transient
 
