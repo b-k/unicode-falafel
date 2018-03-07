@@ -49,7 +49,7 @@ that it accommodates a range of food preferences: given reasonable care in prepa
 it is vegan and vegetarian, halal, and kosher (for the remainder of this proposal, ``VHK'')
 
 The proposed emoji would picture three falafel balls, with one in the center split open to
-reveal the green interior of the ball. Figure \ref{apheefig} presents a sample rendering by Aphee Messer.
+reveal the green interior of the ball. Figure \ref{apheefig} presents a sample rendering.
 
 The food category in the emoji set includes a wide range of fruits and vegetables, but
 very little else that is VHK. For example, cheeses may not be VHK due to rennet, and the
@@ -60,7 +60,7 @@ North Africa.
 
 \section{Expected Usage}
 
-\subsection{Frequency}
+\subsection{Frequency}\label{freqsec}
 
 \begin{figure}
 \begin{center}
@@ -73,9 +73,11 @@ North Africa.
 
 Figure \ref{engplot} shows frequencies of various food terms in Google's English-language
 database of user searches.  In this data set, the usage of ``falafel'' is roughly as popular as
-``croissant,'' and noticeably more popular than some of the Japanese food emoji
-(see figure).  Figure \ref{engplot} includes ``sweet potato,'' which is more popular
+``croissant.'' 
+The figure includes ``sweet potato,'' which is more popular
 in Google's database but clearly seasonal, while Falafel shows consistent usage.
+Some of the emoji related to Japanese food, {\sc rice ball} and {\sc bento box} are also
+presented for comparison, though they may not be the ideal food for comparison to falafel.
 
 To preserve the scale, ``rice'' was omitted from the plot of English search terms:
 being a basic staple, it was searched on Google 17 times more often than ``falafel.''
@@ -168,8 +170,13 @@ on the same order of magnitude as sweet potatoes and croissants, while in Arabic
 falafel result counts are behind but on the same order of magnitude as rice and bread.
 
 
-\subsection{Multiple uses}
-
+\subsection{Use in sequences}\label{seqsec}
+{\sc falafel} as street food is served as a wrap or in a flatbread, so sequencing it before {\sc kebab}
+(pictured in a wrap) facilitates the {\sc falafel} + {\sc kebab} and the {\sc falafel}
++ {\sc stuffed flatbread} pairs, which could transform the wrap and flatbread emoji
+into unambiguous representations of a falafel wrap or pita. {\sc falafel} + {\sc salad} is
+another common menu item. Some restauarants serve a falafel burger as a vegetarian option,
+which users might represent via {\sc falafel} + {\sc hamburger}.
 
 
 \subsection{Image distinctiveness}
@@ -180,7 +187,7 @@ However, we leave it to the vendors to choose the most effective designs.
 
 \subsection{Completeness}
 Middle Eastern food has almost no representation in emoji. Distinctive foods
-commonly found in the melting pot of Middle Eastern cuisine such as kebabs, hummus, shakshuka or
+commonly found in the melting pot of Middle Eastern cuisine such as hummus, tahini, shakshuka or
 baklava are missing.  Döner kebab has an emoji in the form
 of {\sc stuffed flatbread}, though the proposal ``UTC document
 L2/15-084''\footnote{\url{http://www.unicode.org/L2/L2015/15084-kebab.pdf}} makes
@@ -235,21 +242,55 @@ The plot above from Google's database shows consistent usage of ``falafel'' in t
 English-speaking world since 2004. Pre-Internet, falafel is old enough that its origins
 have been lost. Claims include that its origin traces back to ta'amia, a fava-bean
 based fritter perhaps originating among Christian Copts of Alexandria in centuries past,
-or even the times of the pharoas.
+or even the times of the pharaohs.
+
+\subsection{Other exclusion factors}
+The {\sc falafel} emoji is not a logo, brand, or other excluded category. 
+
+Section \ref{freqsec} compared falafel's popularity to that of foods represented by early
+emoji such as bento boxes and rice balls, but these comparisons are only one part of the
+overall range, and the argument does not hinge on those comparisons.
+
+No exact image is required.
 
 
 \section{Location on the emoji keyboard}
 
-{\sc falafel} as street food is served as a wrap or in a flatbread, so sequencing it before {\sc kebab}
-(picured in a wrap) facilitates the {\sc falafel} + {\sc kebab} and the {\sc falafel}
-+ {\sc stuffed flatbread} pairs, which could transform the wrap and flatbreat emoji
-into unambiguous representations of a falafel wrap or pita.
+As per Section \ref{seqsec}, falafel is well-paired with wraps and flatbreads, so 
+sequencing it before {\sc kebab}
+(pictured in a wrap) facilitates the {\sc falafel} + {\sc kebab} and the {\sc falafel}
++ {\sc stuffed flatbread} pairs.
 
-\section{Appendix}
+\vfill
+\paragraph{Thanks} This document owes a debt to Jennifer 8. Lee for editing and extensive
+advice, Ronit Klemens for her expertise in Middle Eastern cuisine, and Aphee Messer for her visualizations.
+
+\eject
+\section*{Appendix}
 The specifications for emoji proposals require screen shots of searches in several
-search engines. These are provided here for reference. The counts are transcribed from
-here to Table \ref{counttab}. As per the specification, these searches were done in a
-browser's privacy mode 
+search engines, and plots Google Trends counts for images. These are provided here
+for reference. The counts are transcribed from here to Table \ref{counttab}. As per
+the specification, these searches were done in a browser's privacy mode
+
+
+\begin{figure}[!hb]
+\begin{center}
+\includegraphics[width=3.5in]{etrends-pics.png}
+\end{center}
+\caption{Counts of pictures in Google's English database, using the same color key as
+Figure \ref{engplot}. Notably, falafel is in blue. Croissants are very photogenic.}
+\label{engpicplot}
+\end{figure}
+
+
+\begin{figure}[!hb]
+\begin{center}
+\includegraphics[width=3.5in]{atrends-pics.png}
+\end{center}
+\caption{Counts of pictures in Google's Arabic database, using the same color key as Figure \ref{aplot}. Rice (red) appears more often than in
+the search result count; falafel (blue) less often, but still commensurate with kebabs (yellow).}
+\label{apicplot}
+\end{figure}
 
 \def\ss#1#2#3{\includegraphics[width=#3]{search_shots/#1-#2.png}}
 \def\row#1#2{#1&\ss{b}{#2}{2.5cm}& \ss{g}{#2}{3.4cm}& \ss{y}{#2}{4.5cm}\\\hline}
@@ -294,28 +335,5 @@ browser's privacy mode
 \caption{Screen shots of Arabic language searches}
 \label{arproof}
 \end{figure}
-
-\begin{figure}
-\begin{center}
-\includegraphics[width=3.5in]{etrends-pics.png}
-\end{center}
-\caption{Counts of pictures in Google's English database, using the same color key as
-Figure \ref{engplot}. Croissants are very photogenic.}
-\label{engpicplot}
-\end{figure}
-
-
-\begin{figure}
-\begin{center}
-\includegraphics[width=3.5in]{atrends-pics.png}
-\end{center}
-\caption{Counts of pictures in Google's Arabic database, using the same color key as Figure \ref{aplot}. Rice (red) appears more often than in
-the search result count; falafel (blue) less often.}
-\label{apicplot}
-\end{figure}
-
-\vfill
-\paragraph{Thanks} This document owes a debt to Jennifer 8. Lee for editing and extensive
-advice, Ronit Klemens, and Aphee Messer for her visualizations.
 
 \end{document}
