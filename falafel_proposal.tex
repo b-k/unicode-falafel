@@ -95,6 +95,79 @@ falafel (\<فلافل>, in blue).  Another staple, ``bread'' (\<خبز>, in purp
 popular than falafel at the end of this period. Falafel seems slightly more popular than ``kebab'' (\<كباب>,
 in yellow), while ``croissant'' (\<كرواسون>, in green) seems largely unknown.
 
+Trends in image searches are presented in the appendix in Figures \ref{engpicplot} and \ref{apicplot}.
+The results are largely similar, but rice is somewhat more common in Arabic image searches
+and English speakers are enamored of croissant photos.
+
+
+\begin{figure}
+\hspace{-2cm}
+\begin{tabular}{rr}
+
+\begin{tabular}{l|rrr}
+{\bf English, count} & Bing & Google & YouTube \\\hline
+Falafel  & 6,460 & 25,000 & 301\\
+Rice    & 21,900 & 607,000 & 13,500\\
+Sweet potato & 13,700 & 46,200 & 5,010\\
+Croissant & 12,100 & 91,800 & 537 \\
+Bento box & 2,160 & 8,760 & 229 \\
+Rice ball & 926 & 1,010 & 154\\
+\end{tabular}
+
+&
+
+\begin{tabular}{l|rrr}
+{\bf English, scaled} & Bing & Google & YouTube \\\hline
+
+Falafel  &1.00& 1.00 & 1.00 \\
+Rice    &3.39&24.28 & 44.85 \\
+Sweet potato &2.12& 1.85 & 16.64 \\
+Croissant &1.87& 3.67 & 1.78 \\
+Bento box &0.33& 0.35 & 0.76 \\
+Rice ball &0.14& 0.04 & 0.51
+\end{tabular}
+\\
+\phantom{Filler}\\
+
+%Couldn't get Arabic working in tables...
+\begin{tabular}{l|rrr}
+{\bf Arabic} & Bing & Google & YouTube \\\hline
+%\<ﻑﻼﻔﻟ>
+Falafel & 301  & 5,670 & 460\\
+%\<ﺃﺭﺯ>
+Rice & 1,690& 10,400 & 595\\
+%\<ﺦﺑﺯ>
+Bread  & 601& 72,200   & 703\\
+%\<ﻚﺑﺎﺑ>
+Kebab & 303 & 2,650   & 625\\
+%\<ﻙﺭﻭﺎﺳﻮﻧ>
+Croissant & 62.2 & 405 & 63.7
+\end{tabular}
+
+&
+\begin{tabular}{l|rrr}
+{\bf Arabic} & Bing & Google & YouTube \\\hline
+Falafel & 1.00 & 1.00  & 	1.00\\
+Rice & 5.61 & 1.83	 &  1.29\\
+Bread & 2.00 & 12.73 &    1.53\\
+Kebab & 1.01 & 0.47	 &  1.36\\
+Croissant & 0.21 & 0.07	 &  0.14
+\end{tabular}
+
+\end{tabular}
+\caption{Search engine hits in thousands, from three search engines. Counts are given on
+the left, and as a percent of the falafel count to the right.}
+\label{counttab}
+
+\end{figure}
+
+Figure \ref{counttab} shows the search result counts in three search engines, in English
+and Arabic. Apart from Arabic Google's surprising love of bread and a disproportionate
+number of English-language videos about sweet potatoes, the results here largely
+follow those from the trend lines: in English, falafel result counts are behind but
+on the same order of magnitude as sweet potatoes and croissants, while in Arabic, the
+falafel result counts are behind but on the same order of magnitude as rice and bread.
+
 
 \subsection{Multiple uses}
 
@@ -172,6 +245,72 @@ or even the times of the pharoas.
 (picured in a wrap) facilitates the {\sc falafel} + {\sc kebab} and the {\sc falafel}
 + {\sc stuffed flatbread} pairs, which could transform the wrap and flatbreat emoji
 into unambiguous representations of a falafel wrap or pita.
+
+\section{Appendix}
+The specifications for emoji proposals require screen shots of searches in several search engines. These are provided here for reference. The counts are transcribed from here to Table \ref{counttab}.
+
+\def\ss#1#2#3{\includegraphics[width=#3]{search_shots/#1-#2.png}}
+\def\row#1#2{#1&\ss{b}{#2}{2.5cm}& \ss{g}{#2}{3.4cm}& \ss{y}{#2}{4.5cm}\\\hline}
+
+\begin{figure}
+\begin{center}
+\begin{tabular}{l|c|c|c|}
+ & Bing & Google &YouTube\\
+\hline
+\row{Falafel}{falafel}
+\row{Rice}{rice}
+\row{Sweet potato}{sweet_potato}
+\row{Croissant}{croissant}
+\row{Bento box}{bento_box}
+\row{Rice ball}{rice_ball}
+\end{tabular}
+\end{center}
+\caption{Screen shots of English language searches}
+\label{enproof}
+\end{figure}
+
+\def\ss#1#2#3{\includegraphics[width=#3]{search_shots/#1-#2.png}}
+\def\arow#1{#1&\ss{b-a}{#1}{2.5cm}& \ss{g-a}{#1}{3.4cm}& \ss{y-a}{#1}{4.5cm}\\\hline}
+
+\begin{figure}
+\begin{center}
+\begin{tabular}{l|c|c|c|}
+ & Bing & Google &YouTube\\
+\hline
+%\<ﻑﻼﻔﻟ> 
+\arow{Falafel}
+%\<ﺃﺭﺯ>
+\arow{Rice}
+%\<ﺦﺑﺯ> 
+\arow{Bread}
+%\<ﻚﺑﺎﺑ> 
+\arow{Kebab}
+%\<ﻙﺭﻭﺎﺳﻮﻧ> 
+\arow{Croissant}
+\end{tabular}
+\end{center}
+\caption{Screen shots of Arabic language searches}
+\label{arproof}
+\end{figure}
+
+\begin{figure}
+\begin{center}
+\includegraphics[width=3.5in]{etrends-pics.png}
+\end{center}
+\caption{Counts of pictures in Google's English database, using the same color key as
+Figure \ref{engplot}. Croissants are very photogenic.}
+\label{engpicplot}
+\end{figure}
+
+
+\begin{figure}
+\begin{center}
+\includegraphics[width=3.5in]{atrends-pics.png}
+\end{center}
+\caption{Counts of pictures in Google's Arabic database, using the same color key as Figure \ref{aplot}. Rice (red) appears more often than in
+the search result count; falafel (blue) less often.}
+\label{apicplot}
+\end{figure}
 
 \vfill
 \paragraph{Thanks} This document owes a debt to Jennifer 8. Lee for editing and extensive
