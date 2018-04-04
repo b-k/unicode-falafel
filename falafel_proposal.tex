@@ -21,7 +21,7 @@
 
 
 \title{Proposal to Add Emoji Symbol for {\sc Falafel} to Unicode}
-\author{Ben Klemens\\ {\tt ben@klemens.org}}
+\author{Ben Klemens with Emojination\\ {\tt ben@klemens.org}}
 \date{4 April 2018 Revision}
 \maketitle
 
@@ -63,16 +63,50 @@ shellfish-based food emoji. The current emoji set has good representation of foo
 from the American and East Asian regions, but very little from the Middle East and
 North Africa.
 
+
 Made with chickpeas, the dish is always {\em falafel}, but made with fava beans, the dish
 is sometimes named {\em falafel} and sometimes {\em ta'amia} (\<طعمية>), depending upon the
 region or the whims of the chef. Search results gauging the popularity of {\sc ta'amia} give
 ambiguous results, but it is suggested as an alternative name for the proposed emoji.
 
 \section{Expected Usage}
-\enlargethispage{\baselineskip} %cheat a little to prevent a two-line last page.
-\enlargethispage{\baselineskip}
+
+Because the {\sc falafel} emoji is intended to address under-representation of VHK foods in the
+emoji food set, it is worth noting that
+the world's VHK population is substantial. The Indian Census estimates that
+in 2014, 28.4\% of Indian men and 29.3\% of Indian women were
+vegetarian.\footnote{Registrar General and Census Commissioner
+of India, ``Sample Registration System Baseline Survey 2014''.
+\url{http://www.censusindia.gov.in/vital_statistics/BASELINE\%20TABLES07062016.pdf}}
+With 1.27 billion Indians in 2014, this gives circa 366 million vegetarians.
+Our rough calculations using a large-scale worldwide survey by the Pew Forum gives an estimate
+of 796 million Muslims likely to be halal,\footnote{The Pew Forum asked 38,000 Muslims in 39
+countries about their attitudes toward religion. We were unable to find such a large-scale
+and unbiased survey that directly asks for halal preferences, but 
+this survey asks the question ``Do you
+favor\dots making \dots Islamic law the law of the land in our country?'' (p 201). We presume that
+a person who responds yes to this question keeps halal (or at least presents as such in public
+communication). Because many of the people who do not want Islamic law to be the law of
+the land will still keep halal, our estimate should be an undercount of halal eaters.
+We multiplied the per-country percentage of people who said yes to this question by estimates of the Muslim population in these
+countries. Due to time constraints, population counts were taken from the Wikipedia
+aggregation, disregarding year of survey and reliability estimates,
+which we feel will still be sufficient for the order-of-magnitude estimate here.
+
+The full calculation is available on the repository supporting this document, at
+\url{https://github.com/b-k/unicode-falafel}.  See 
+{\em The World’s Muslims: Religion, Politics and Society}, by Lugo, Cooperman, et al.
+at
+\url{http://assets.pewresearch.org/wp-content/uploads/sites/11/2013/04/worlds-muslims-religion-politics-society-full-report.pdf},
+and \url{https://en.wikipedia.org/wiki/Islam_by_country}.
+}
+which already gives just over 1.1 billion VHK eaters,
+without even counting vegetarians outside India, Muslims outside the Pew study area, or
+kosher eaters.
+
 
 \subsection{Frequency}\label{freqsec}
+
 
 \begin{figure}
 \begin{center}
@@ -122,8 +156,6 @@ Because of these ambiguous results, ta'amia is omitted from the tables of result
 Trends in image searches are presented in the appendix in Figures \ref{engpicplot} and \ref{apicplot}.
 The results are largely similar, but rice is somewhat more common in Arabic image searches
 and English speakers are enamored of croissant photos.
-\enlargethispage{\baselineskip}
-\enlargethispage{\baselineskip}
 
 
 \begin{figure}
@@ -221,7 +253,6 @@ of {\sc stuffed flatbread}. The proposal itself, ``UTC document
 L2/15-084,''\footnote{\url{http://www.unicode.org/L2/L2015/15084-kebab.pdf}} makes
 only brief reference to its Turkish origins and instead bills it as ``Germany's most
 favorite fast food snack;'' the final emoji is further generalized to cover cuisines from around the world.
-\enlargethispage{\baselineskip}
 
 \section{Selection Factors for Exclusion}
 
@@ -289,9 +320,18 @@ sequencing it before {\sc stuffed flatbread}
 facilitates the {\sc falafel} + {\sc stuffed flatbread} pairs.
 
 \vfill
-{\small \paragraph{Thanks} This document owes a debt to Jennifer 8. Lee for editing and extensive
+{\small \paragraph{About}
+This proposal has a supporting repository of documents at 
+\url{https://github.com/b-k/unicode-falafel}.
+
+This document owes a debt Jennifer 8. Lee for editing and extensive
 advice, Ronit Klemens for her expertise in Middle Eastern cuisine,
-and Aphee Messer for her visualizations.}
+and Aphee Messer for her visualizations.
+
+Ben Klemens is an economist who has worked heavily in tech policy issues, including at
+the Brookings Institution and the Free Software Foundation. He tries to be a diverse
+eater, so only about 15\% of his diet is falafel.
+}
 
 \eject
 \section*{Appendix}
